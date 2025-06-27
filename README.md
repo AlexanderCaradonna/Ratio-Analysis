@@ -50,5 +50,5 @@ This project presents a financial ratio analysis comparing **Walmart** and **Tar
 - **Yahoo Finance:** Adjusted Year End Stock Price
 - **U.S. Securities and Exchange Commission (SEC):** Company filings (10-K reports)
   
----
+
 
