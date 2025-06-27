@@ -4,8 +4,8 @@ This project presents a financial ratio analysis comparing **Walmart** and **Tar
 
 ## 📁 Files
 
-- [📈 Excel Workbook](./Ratio_Analysis.xlsx)
-- [📝 Full Report (Word)](./Report.pdf)
+- Ratio_Analysis.xlsx
+- Report.pdf
 
 ## 📊 Ratios Analyzed
 
