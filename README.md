@@ -33,18 +33,15 @@ This project presents a financial ratio analysis comparing **Walmart** and **Tar
 - Investors seeking higher returns for increased risk may prefer Target, provided it manages its leverage carefully.
 - Conservative or risk-averse investors may favor Walmart for its stable operational performance and long-term market confidence.
 
-## 📷 Sample Charts
-
-| Ratio | Chart |
-|-------|-------|
-| Current Ratio | ![Current Ratio](./charts/current-ratio.png) |
-| ROE | ![ROE](./charts/roe.png) |
-
 ## 📌 Tools Used
 
 - Microsoft Excel (for calculations & graphs)
 - Microsoft Word (for interpretation and report writing)
 
 ---
+## 📚 Sources
+
+- **Yahoo Finance:** Financial data
+- **U.S. Securities and Exchange Commission (SEC):** Company filings (10-K reports)
 
 
