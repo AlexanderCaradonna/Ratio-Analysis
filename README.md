@@ -45,6 +45,16 @@ This project presents a financial ratio analysis comparing **Walmart** and **Tar
 - Microsoft Word (for interpretation and report writing)
 
 ---
+
+## 📂 Excel Workbook Structure
+
+- **Glossary:** Definitions of key financial terms and ratios used in the analysis.  
+- **Data:** Raw financial data extracted from Walmart and Target reports.  
+- **Ratios:** Calculated financial ratios comparing the two companies.  
+- **Graphs:** Visual representations of the key ratios and financial metrics.
+
+---
+
 ## 📄 Sources
 
 - **Yahoo Finance:** Adjusted Year End Stock Price
