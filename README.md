@@ -36,7 +36,7 @@ This project presents a financial ratio analysis comparing **Walmart** and **Tar
 - Target’s lower earnings per share is balanced by a consistently improving P/E ratio, indicating growing investor confidence.
 - Investors seeking higher returns for increased risk may prefer Target, provided it manages its leverage carefully.
 - Conservative or risk-averse investors may favor Walmart for its stable operational performance and long-term market confidence.
-- 
+
 ---
 
 ## 📌 Tools Used
