@@ -39,9 +39,10 @@ This project presents a financial ratio analysis comparing **Walmart** and **Tar
 - Microsoft Word (for interpretation and report writing)
 
 ---
-## 📚 Sources
+## 📄 Sources
 
 - **Yahoo Finance:** Financial data
 - **U.S. Securities and Exchange Commission (SEC):** Company filings (10-K reports)
-
+  
+---
 
